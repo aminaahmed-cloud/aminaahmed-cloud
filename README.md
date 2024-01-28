@@ -1,10 +1,5 @@
 <h1>Hi, I'm Amina! <br/><a href="https://github.com/aminaahmed-cloud">DevOps</a>, <a href="https://www.linkedin.com/in/amina-ahmed-aws-solutions-architect-associate-6463b0109/">AWS Cloud Engineer</a>
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="aminaahmed-cloud | LinkedIn" width="22px" src="https://www.linkedin.com/in/amina-ahmed-aws-solutions-architect-associate-6463b0109/"/>][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/amina-ahmed-aws-solutions-architect-associate-6463b0109/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
