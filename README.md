@@ -1,4 +1,4 @@
-<h1>Hi, I'm Amina! <br/><a href="https://github.com/aminaahmed-cloud">DevOps</a>, <a href="https://www.linkedin.com/in/joshmadakor](https://www.linkedin.com/in/amina-ahmed-aws-solutions-architect-associate-6463b0109/)/">AWS Cloud Engineer</a>
+<h1>Hi, I'm Amina! <br/><a href="https://github.com/aminaahmed-cloud">DevOps</a>, <a href="https://www.linkedin.com/in/amina-ahmed-aws-solutions-architect-associate-6463b0109/">AWS Cloud Engineer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
