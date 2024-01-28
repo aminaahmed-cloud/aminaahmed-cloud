@@ -2,7 +2,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[linkedin]: href="https://linkedin.com/in/joshmadakor](https://www.linkedin.com/in/amina-ahmed-aws-solutions-architect-associate-6463b0109/"
+[linkedin]: https://www.linkedin.com/in/amina-ahmed-aws-solutions-architect-associate-6463b0109/"
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
