@@ -9,5 +9,5 @@
 - 💬 Ask me about AWS, Gym, Nutrition, Cloud computing, Leadership, Recruitment
 - 📫 How to reach me: Email: amina.iprahim@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Full time Gym rat, mom and Cloud Engineer at morning and student at night 
+- ⚡ Fun fact: Full time Gym rat, mom and Cloud Engineer in the morning and student at night 
 -->
